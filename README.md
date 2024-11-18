@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0baydullah)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0baydullah&langs_count=110)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0baydullah&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0baydullah)  
  
@@ -15,5 +15,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=0baydullah)  
 
 ![Profile views](https://gpvc.arturio.dev/0baydullah)  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0baydullah&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=tokyonight&hide_border=false" height="300" width="400" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0baydullah&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=15&theme=tokyonight&hide_border=false" height="300" width="400" alt="languages graph"  />
 
