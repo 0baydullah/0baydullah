@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0baydullah)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0baydullah&langs_count=26)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0baydullah&langs_count=36)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0baydullah)  
  
